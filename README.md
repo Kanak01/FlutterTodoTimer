@@ -1,16 +1,24 @@
-# todoey_second
 
-A new Flutter project.
+# TodoeyPomodoro (Productivity Application).
 
-## Getting Started
+It's a multi platform productivity Application which is powered by Flutter with support for 6 platform's.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+All the working screens are shown below.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  
+## Screenshots
+
+Splash Screen            | ToDo's Screen         | Timer's Screen      | 
+:-------------------------:|:-------------------------:|:----------------------:|
+  <img src = "images/screen1.jpeg" height = 550 /> | <img src = "images/screen2.jpeg" height = 550 /> |    <img src = "images/screen3.jpeg" height = 550>| 
+
+
+## Features
+- Set Todo's and Manage them Reorder them
+- Pomodoro Timer
+- Tested on 3 Platform with support for 6.
+  
+  
